@@ -1,0 +1,21 @@
+# Archivos compilados
+*.class
+*.jar
+*.war
+
+# Directorios de compilación
+/target/
+/bin/
+/build/
+
+# Archivos de configuración IDE
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# Logs y archivos temporales
+*.log
+*.tmp

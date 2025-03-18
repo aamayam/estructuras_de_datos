@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"mx.itam.com102011_02","l":"ControladorTablero"},{"p":"mx.itam.com102011_02","l":"EvaluadorSoluciones"},{"p":"mx.itam.com102011_02","l":"Interfaz"}]
